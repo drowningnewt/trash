@@ -11,8 +11,8 @@ I don't know. I was just bored.
 
 ### What does a high chained alternation layout look like?
 I have developed two chained alternation layouts that are very similar:
-![image](https://github.com/user-attachments/assets/9228256d-433f-493a-a57e-4cadfe225e03)
-![image](https://github.com/user-attachments/assets/9a87672d-170a-484f-8a44-d4a7a36678a9)
+![image](https://github.com/user-attachments/assets/68667c6b-69bc-4418-8062-f41a18641e38)
+![image](https://github.com/user-attachments/assets/0e10be38-0e90-409f-814a-19f9acbbb935)
 
 ### What makes these layouts high chained alternation?
 - `t` + vowels
