@@ -34,4 +34,4 @@ Of course not. I made these layouts due to the lack of curiosity in high alterna
   - `tio` `ate` `ati` `it'` `ite` `eti`
 
 ## What about other layouts?
-I have a [spreadsheet](https://docs.google.com/spreadsheets/d/1dnO0UmP8Z2AMtsdVwARkff7jo9a9p6bAopBAnXSM8lE/edit?usp=sharing) where I analyzed layouts I found interesting in all the tetragram stats I deemed significant enough for me to look into. The analysis is done in a modded version of genkey where tetragrams can be analyzed.
+If you are a masochist and looking at numbers you can stare at my [spreadsheet](https://docs.google.com/spreadsheets/d/1dnO0UmP8Z2AMtsdVwARkff7jo9a9p6bAopBAnXSM8lE/edit?usp=sharing).
